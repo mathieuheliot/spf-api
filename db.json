@@ -8,6 +8,7 @@
       "city": "Hérouville-Saint-Clair",
       "timeslots": [
         {
+          "id": 1,
           "startAt": "2022-09-13T07:00:00.000Z",
           "endAt": "2022-09-13T15:30:00.000Z",
           "places": 10
@@ -22,11 +23,14 @@
       "city": "Cherbourg-en-Cotentin",
       "timeslots": [
         {
+          
+          "id": 2,
           "startAt": "2022-09-30T07:00:00.000Z",
           "endAt": "2022-09-30T10:00:00.000Z",
           "places": 3
         },        
         {
+          "id": 3,
           "startAt": "2022-09-30T12:00:00.000Z",
           "endAt": "2022-09-30T16:00:00.000Z",
           "places": 3
@@ -41,11 +45,13 @@
       "city": "Caen",
       "timeslots": [
         {
+          "id": 4,
           "startAt": "2022-10-30T06:00:00.000Z",
           "endAt": "2022-10-30T20:00:00.000Z",
           "places": 4
         },
         {
+          "id": 5,
           "startAt": "2022-10-31T06:00:00.000Z",
           "endAt": "2022-10-31T20:00:00.000Z",
           "places": 4
