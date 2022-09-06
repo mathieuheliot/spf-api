@@ -19,7 +19,7 @@
               "birthdate": "1986-11-17",
               "email": "mathieu.heliot@gmail.com"
               "phone": "0619486532",
-              "volunteer": true
+              "isVolunteer": true
             }
           ]
         }
