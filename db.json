@@ -78,7 +78,7 @@
           "id": 4,
           "startAt": "2022-10-30T06:00:00.000Z",
           "endAt": "2022-10-30T20:00:00.000Z",
-          "places": 4,
+          "places": 2,
           "subscriptions": [            
             {
               "firstname": "Mathieu",
@@ -94,7 +94,7 @@
           "id": 5,
           "startAt": "2022-10-31T06:00:00.000Z",
           "endAt": "2022-10-31T20:00:00.000Z",
-          "places": 4,
+          "places": 2,
           "subscriptions": []
         }
       ]
