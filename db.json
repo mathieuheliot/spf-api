@@ -95,7 +95,24 @@
           "startAt": "2022-10-31T06:00:00.000Z",
           "endAt": "2022-10-31T20:00:00.000Z",
           "places": 2,
-          "subscriptions": []
+          "subscriptions": [          
+            {
+              "firstname": "Mathieu",
+              "lastname": "Héliot",
+              "birthdate": "1986-11-17",
+              "email": "mathieu.heliot@gmail.com",
+              "phone": "0619486532",
+              "isVolunteer": true
+            },
+            {
+              "firstname": "Jean-Pierre",
+              "lastname": "Lefebvre",
+              "birthdate": "1977-05-02",
+              "email": "jean.pierre@lefebvre.com",
+              "phone": "0619486532",
+              "isVolunteer": false
+            }
+          ]
         }
       ]
     }
