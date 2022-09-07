@@ -37,13 +37,24 @@
           "id": 2,
           "startAt": "2022-09-30T07:00:00.000Z",
           "endAt": "2022-09-30T10:00:00.000Z",
-          "places": 3
+          "places": 1,
+          "subscriptions": []          
         },        
         {
           "id": 3,
           "startAt": "2022-09-30T12:00:00.000Z",
           "endAt": "2022-09-30T16:00:00.000Z",
-          "places": 3
+          "places": 1,
+          "subscriptions": [
+            {
+              "firstname": "Mathieu",
+              "lastname": "Héliot",
+              "birthdate": "1986-11-17",
+              "email": "mathieu.heliot@gmail.com",
+              "phone": "0619486532",
+              "isVolunteer": true
+            }
+          ]
         }
       ]
     },    
@@ -58,13 +69,15 @@
           "id": 4,
           "startAt": "2022-10-30T06:00:00.000Z",
           "endAt": "2022-10-30T20:00:00.000Z",
-          "places": 4
+          "places": 4,
+          "subscriptions": []
         },
         {
           "id": 5,
           "startAt": "2022-10-31T06:00:00.000Z",
           "endAt": "2022-10-31T20:00:00.000Z",
-          "places": 4
+          "places": 4,
+          "subscriptions": []
         }
       ]
     }
